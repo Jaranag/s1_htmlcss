@@ -190,9 +190,38 @@ section{
         width: 96%;
     }
 
+    #s2-b1-line1{
+        width: 45.5%;
+    }
+
+    #s2-b1-line2{
+        width: 45.5%;
+    }
+
+    #s2-b1-line3{
+        width: 45.5%;
+    }
+
+    #s2-b1-line4{
+        width: 45.5%;
+    }
+
+    #s2-b1-line5{
+        width: 95%;
+    }
+
+
     .box4 {
         width: 96%;
         margin-top: 20px;
         height: auto;
     }
+
+    #s2-b2-line1 {
+        width: 94.5%;
+    }
+    #s2-b2-line2 {
+        width: 94.5%;
+    }
+
 }
