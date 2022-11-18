@@ -179,3 +179,20 @@ section{
     justify-content: center;
     width: 96%;
 }
+
+@media (max-width:801px) {
+    .section2 {
+        background-color: #8F8EBF;
+        flex-direction: column;
+    }
+
+    .box3 {
+        width: 96%;
+    }
+
+    .box4 {
+        width: 96%;
+        margin-top: 20px;
+        height: auto;
+    }
+}
